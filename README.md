@@ -37,10 +37,10 @@ y más...
 ## Encuéntrame en:
 
 ## 
-[![Twitter](https://img.shields.io/badge/Twitter-@eudoro69-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/mouredev)
+[![Twitter](https://img.shields.io/badge/Twitter-@eudoro69-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/eudoro69)
 </br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-eudoro69-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/braismoure)
-![Web](https://img.shields.io/badge/My_Website-Manexware.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)
+![Web](https://img.shields.io/badge/My_Website-Manexware.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)(https://www.manexware.com)
 
 
 
