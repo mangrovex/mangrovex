@@ -1,9 +1,6 @@
-<p align="center">
-  <a href="https://www.manexware.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/75753187/123350185-74ce0900-d528-11eb-848d-d92955dbb944.png" alt="my banner"></a>
-</p>
-<h2>
+<h1>
  Hola, mi nombre es Manuel Vega
-</h2>
+</h1>
 <h2>
   I'm a Full-Stack Web Developer 💻, and Designer 🎨!
 </h2> 
@@ -54,9 +51,4 @@ y más...
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-eudoro69-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/manuel-vega-9442898/)
 </br>
 
-
-
-## Contact me:
-</br>
-[![eMail](https://img.shields.io/badge/Manexware-https%3A%2F%2Fwww.manexware.com-blue?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:manuel.vega@manexware.com)
 
