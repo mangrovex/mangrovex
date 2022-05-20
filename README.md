@@ -53,7 +53,7 @@ y más...
 </br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-eudoro69-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/manuel-vega-9442898/)
 </br>
-![Web](https://img.shields.io/badge/Manexware-https%3A%2F%2Fwww.manexware.com-blue?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)
+[![Web](https://img.shields.io/badge/Manexware-https%3A%2F%2Fwww.manexware.com-blue?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](mailto:manuel.vega@manexware.com)
 
 
 
