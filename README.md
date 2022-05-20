@@ -1,16 +1,15 @@
 # ![https://mouredev.com](mvega.png) Hola, mi nombre es Manuel Vega
-### Freelance full-stack iOS & Android engineer
+### Freelance full-stack
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCxPD7bsocoAMq8Dj18kmGyQ?style=social)](https://youtube.com/mouredevapps?sub_confirmation=1)
-[![Twitch Status](https://img.shields.io/twitch/status/mouredev?style=social)](https://twitch.com/mouredev)
-[![Twitter Follow](https://img.shields.io/twitter/follow/mouredev?style=social)](https://twitter.com/mouredev)
-![GitHub Followers](https://img.shields.io/github/followers/mouredev?style=social)
+[![Twitch Status](https://img.shields.io/twitch/status/eudoro69?style=social)](https://twitch.com/eudoro69)
+[![Twitter Follow](https://img.shields.io/twitter/follow/eudoro69?style=social)](https://twitter.com/eudoro69)
+![GitHub Followers](https://img.shields.io/github/followers/mangrovex?style=social)
 
 
 
 Soy desarrollador de software profesional desde hace más de 30 años.
 
-En 2004 dejé mi trabajo en una multinacional y creé [** Manexware **] (https://manexware.com), el reflejo de mi sueño de crecer como profesional dentro de la industria del desarrollo de software.
+En 2004 dejé mi trabajo en una multinacional y creé ** Manexware ** (https://manexware.com), el reflejo de mi sueño de crecer como profesional dentro de la industria del desarrollo de software.
 Desde entonces me he dedicado a especializarme en el desarrollo de aplicaciones móviles, colaborando con empresas de diferentes partes del ecuador, creando más de 60 Apps y fundando mi propia startup.
 
 ## Skills:
