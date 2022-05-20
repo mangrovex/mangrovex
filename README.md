@@ -1,7 +1,6 @@
 # ![https://mouredev.com](mvega.png) Hola, mi nombre es Manuel Vega
 ### Freelance full-stack
 
-[![Twitch Status](https://img.shields.io/twitch/status/eudoro69?style=social)](https://twitch.com/eudoro69)
 [![Twitter Follow](https://img.shields.io/twitter/follow/eudoro69?style=social)](https://twitter.com/eudoro69)
 ![GitHub Followers](https://img.shields.io/github/followers/mangrovex?style=social)
 
