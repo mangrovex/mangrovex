@@ -32,16 +32,16 @@ Desde entonces me he dedicado a especializarme en el desarrollo de aplicaciones 
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=101010)]()
 [![Google_Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=101010)]()
 </br>
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-informational?style=for-the-badge&logo=PostgreSQL&color=336791)]()
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-informational?style=for-the-badge&logo=PostgreSQL&color=101010)]()
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()
 [![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 </br>
 
-![](https://img.shields.io/badge/Bootstrap-informational?style=for-the-badge&logo=Bootstrap&color=7952B3)
-![](https://img.shields.io/badge/CSS3-informational?style=for-the-badge&logo=CSS3&color=1572B6)
-![](https://img.shields.io/badge/styled--components-informational?style=for-the-badge&logo=styled-components&color=DB7093)
+![](https://img.shields.io/badge/Bootstrap-informational?style=for-the-badge&logo=Bootstrap&color=101010)
+![](https://img.shields.io/badge/CSS3-informational?style=for-the-badge&logo=CSS3&color=101010)
+![](https://img.shields.io/badge/styled--components-informational?style=for-the-badge&logo=styled-components&color=101010)
 </br>
 
 y más...
@@ -53,7 +53,7 @@ y más...
 </br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-eudoro69-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/manuel-vega-9442898/)
 </br>
-![Web](https://img.shields.io/badge/Manexware-https%3A%2F%2Fwww.manexware.com-blue)
+[![Web](https://img.shields.io/badge/Manexware-https%3A%2F%2Fwww.manexware.com-blue?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)]
 
 
 
