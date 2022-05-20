@@ -2,10 +2,9 @@
   <a href="https://www.manexware.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/75753187/123350185-74ce0900-d528-11eb-848d-d92955dbb944.png" alt="my banner"></a>
 </p>
 
-# ![https://manexware.com](mvega.png) Hola, mi nombre es Manuel Vega
-
-<h2 align="center">
-I'm a Full-Stack Web Developer 💻, and Designer 🎨!
+<h2>
+  # ![https://manexware.com](mvega.png) Hola, mi nombre es Manuel Vega
+  I'm a Full-Stack Web Developer 💻, and Designer 🎨!
 </h2> 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/eudoro69?style=social)](https://twitter.com/eudoro69)
