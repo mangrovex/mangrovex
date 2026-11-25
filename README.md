@@ -63,6 +63,19 @@ ahora:      Sabea (l10n Ecuador sobre Odoo 20) · Musubi · Chaskidoo · Teller
   <a href="https://mangrovex.github.io"><b>➜ Ver todos los desarrollos (públicos y privados)</b></a>
 </p>
 
+### 🕒 Actualizados recientemente
+
+<!-- REPOS:START -->
+<!-- Esta sección la actualiza la Action "Actualizar README". No la edites a mano. -->
+| Repositorio | Descripción | Lenguaje | Último push |
+|---|---|---|---|
+| [**musubi**](https://github.com/mangrovex/musubi) | Zato development Framework | `Python` | hace 1 día |
+| [**chaskidoo**](https://github.com/mangrovex/chaskidoo) | Entornos de desarrollo y despliegue de Odoo con Docker | `Python` | hace 1 día |
+| [**flutter_paymentez_sdk**](https://github.com/mangrovex/flutter_paymentez_sdk) | SDK en Flutter para pagos con Paymentez | `Dart` | hace 10 meses |
+
+<sub>Se actualiza automáticamente cada 6 horas · [ver todos los desarrollos](https://mangrovex.github.io)</sub>
+<!-- REPOS:END -->
+
 ### 🛠️ Stack
 
 <p align="center">
