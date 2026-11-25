@@ -52,9 +52,9 @@ ahora:      Sabea (l10n Ecuador sobre Odoo 20) · Musubi · Chaskidoo · Teller
       <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
     </td>
     <td width="50%" valign="top">
-      <h4>🧩 <a href="https://github.com/mangrovex/manex_odoo_repository">manex_odoo_repository</a></h4>
-      <p>Módulos Odoo de Manexware publicados para la comunidad.</p>
-      <img src="https://img.shields.io/badge/Odoo-714B67?style=flat-square&logo=odoo&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <h4>⚡ <a href="https://github.com/mangrovex/fastApiOdoo">fastApiOdoo</a></h4>
+      <p>API externa en FastAPI conectada a Odoo para exponer datos a otros sistemas.</p>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/Odoo-714B67?style=flat-square&logo=odoo&logoColor=white"/>
     </td>
   </tr>
 </table>
