@@ -69,11 +69,14 @@ ahora:      Sabea (l10n Ecuador sobre Odoo 20) · Musubi · Chaskidoo · Teller
 <!-- Esta sección la actualiza la Action "Actualizar README". No la edites a mano. -->
 | Repositorio | Descripción | Lenguaje | Último push |
 |---|---|---|---|
-| [**musubi**](https://github.com/mangrovex/musubi) | Zato development Framework | `Python` | hace 1 día |
-| [**chaskidoo**](https://github.com/mangrovex/chaskidoo) | Entornos de desarrollo y despliegue de Odoo con Docker | `Python` | hace 1 día |
-| [**flutter_paymentez_sdk**](https://github.com/mangrovex/flutter_paymentez_sdk) | SDK en Flutter para pagos con Paymentez | `Dart` | hace 10 meses |
+| [**musubi**](https://github.com/mangrovex/musubi) | Zato development Framework | `CSS` | hoy |
+| [**chaskidoo**](https://github.com/mangrovex/chaskidoo) | Odoo Development framework | `Python` | hoy |
+| [**account_facturaec_invoice**](https://github.com/mangrovex/account_facturaec_invoice) | Odoo addon for FacturaEC invoice integration. | `—` | hoy |
+| [**flutter_paymentez_sdk**](https://github.com/mangrovex/flutter_paymentez_sdk) | SDK de Paymentez para flutter | `Dart` | hace 10 meses |
+| [**flutter_odoo_repository**](https://github.com/mangrovex/flutter_odoo_repository) | Modificación de Odoo Repository para integrarnos con Odo versión 12, 16 y 17 y flutter 3 | `Dart` | hace 1 año |
+| [**Laboratorio17**](https://github.com/mangrovex/Laboratorio17) | Curso Odoo17 | `—` | hace 2 años |
 
-<sub>Se actualiza automáticamente cada 6 horas · [ver todos los desarrollos](https://mangrovex.github.io)</sub>
+<sub>Actualizado automáticamente el 2026-11-26 · [ver todos los desarrollos](https://mangrovex.github.io)</sub>
 <!-- REPOS:END -->
 
 ### 🛠️ Stack
